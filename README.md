@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working on app and llm's<br>i am looking to collaborate on web dev and app dev<br>i am an 2nd year AIML student <br>i am currently learning java, python <br>ask me about development <br><br>
+i am currently working on apps and llm's<br>i am looking to collaborate on web dev and app dev<br>i am an 2nd year AIML student <br>i am currently learning java, python <br>ask me about development <br><br>
 
 
 ## 🌐 Socials:
