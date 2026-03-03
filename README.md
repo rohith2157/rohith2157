@@ -1,6 +1,11 @@
 # 💫 About Me:
-i am currently working on apps and llm's<br>i am looking to collaborate on web dev and app dev<br>i am an 2nd year AIML student <br>i am currently learning java, python <br>ask me about development <br><br>
-
+Artificial Intelligence and Machine Learning (AIML) undergraduate at Anurag University, Hyderabad<br>
+Focused on AIML and Full Stack Development with hands-on experience in web and mobile application development<br>
+Currently building intelligent, scalable applications using React, Python, HTML, CSS, and JavaScript<br>
+Actively exploring Large Language Models (LLMs) and AI-driven system design<br>
+Experienced in rapid prototyping and collaborative development through multiple hackathons<br>
+Continuously strengthening foundations in Data Structures, Java, and advanced Python concepts<br>
+Open to collaboration on AI-powered systems, web platforms, and application development<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ro_0hittt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohith-maheshwaram-b2777531a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/maheshwaramrohith2157/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Maheshwaram Rohith) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maheshwarmrohith2157@gmail.com) 
