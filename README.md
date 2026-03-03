@@ -1,5 +1,5 @@
 # 💫 About Me:
-Artificial Intelligence and Machine Learning (AIML) undergraduate at Anurag University, Hyderabad<br>
+I am studying Artificial Intelligence and Machine Learning (AIML) at Anurag University, Hyderabad<br>
 Focused on AIML and Full Stack Development with hands-on experience in web and mobile application development<br>
 Currently building intelligent, scalable applications using React, Python, HTML, CSS, and JavaScript<br>
 Actively exploring Large Language Models (LLMs) and AI-driven system design<br>
