@@ -229,20 +229,7 @@ Manage promotions, outreach, and event execution for a university tech club.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=rohith2157&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🐍 Contribution Snake
 
