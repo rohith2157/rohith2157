@@ -228,31 +228,7 @@ Manage promotions, outreach, and event execution for a university tech club.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📜 Certifications
 
-**Simplilearn SkillUp**
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6D28D9?style=for-the-badge&logo=openai&logoColor=white) *(May 2025)*
-
-**CodeVocado**
-![AI/ML Internship](https://img.shields.io/badge/AI%2FML_Internship-4C1D95?style=for-the-badge&logo=robotframework&logoColor=white) *Certificate of Completion + Letter of Recommendation*
-
-**Meta · Swecha · IIIT Hyderabad**
-![VISWAM AI](https://img.shields.io/badge/VISWAM_AI_Summer_of_AI-5B21B6?style=for-the-badge&logo=meta&logoColor=white) *4-week AI Internship*
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](#)
-
-`[Add your handles — replace # links above]`
-
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
