@@ -87,24 +87,6 @@ open_to:
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>📚 Kids Comic Library — AI-Generated Children's Comic CMS</b></summary>
-<br/>
-
-A content management system for organizing, publishing, and curating AI-generated children's comic stories, built with a lightweight, production-friendly stack and clean role separation between administrators and parents.
-
-| Category | Details |
-|---|---|
-| **Stack** | Flask, SQLite, Bootstrap, Jinja2 |
-| **Scale** | Multi-role CMS (Admin + Parent) with structured content library |
-| **Performance** | Lightweight server-rendered architecture, fast page loads on modest hosting |
-| **Security** | Role-based access control, session-based authentication |
-| **Impact** | Enables non-technical parents/admins to manage AI-generated story content without touching code |
-| **Repository** | `[Add repo link]` |
-
-Built with a deliberately beginner-friendly, dependency-light stack (no frontend framework) to keep the codebase approachable, maintainable, and easy to demo — while still reflecting real CMS design patterns: role separation, structured schemas, and a clear content lifecycle from generation to publishing.
-
-</details>
 
 <details>
 <summary><b>🕵️ AutonomousQA — BugZero</b></summary>
