@@ -199,16 +199,6 @@ Built an MSME-focused AI chatbot, taking it from LLM fine-tuning through to prod
 
 <br/>
 
-**Club Coordinator — PR & Events Team** · Enigma Club, Anurag University
-📅 Aug 2025 – Present · Hyderabad, India
-
-Manage promotions, outreach, and event execution for a university tech club.
-
-- Managed event promotions, outreach, and social media for club initiatives
-- Coordinated technical workshops that drove increased campus participation
-- Grew overall club visibility across the university
-
-`Event Management` `Public Relations` `Community Building` `Social Media`
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
