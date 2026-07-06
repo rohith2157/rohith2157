@@ -221,14 +221,6 @@ Built an MSME-focused AI chatbot, taking it from LLM fine-tuning through to prod
 
 
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![](https://raw.githubusercontent.com/rohith2157/rohith2157/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🎯 Current Focus
