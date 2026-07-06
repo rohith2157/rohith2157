@@ -224,17 +224,6 @@ Manage promotions, outreach, and event execution for a university tech club.
 | InnoQuest 2.0 | Virtual Pre-Mentor Program — recognized for innovation |
 | CodeVocado AI/ML Internship | Certificate of Completion + Letter of Recommendation (Oct 2025 – Jan 2026) |
 
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-
 
 </div>
 
