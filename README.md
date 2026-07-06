@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent%2C+scalable+applications;AI%2FML+%2B+Full+Stack+Engineer;Exploring+LLMs+%26+AI-driven+system+design;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+intelligent%2C+scalable+applications;AI%2FML+Engineer+%2B+Full+Stack+Developer;Exploring+LLMs+%26+AI-driven+system+design;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -107,40 +107,78 @@ Built with a deliberately beginner-friendly, dependency-light stack (no frontend
 </details>
 
 <details>
-<summary><b>🔧 [Add Project Name]</b></summary>
+<summary><b>🕵️ AutonomousQA — BugZero</b></summary>
 <br/>
 
-`[Add 1–2 line project description]`
+A zero-script AI QA engine that autonomously audits any web app for accessibility, SEO, security, and performance using a multi-agent crawler/tester pipeline.
 
 | Category | Details |
 |---|---|
-| **Stack** | `[e.g. React, Node.js, MongoDB]` |
-| **Scale** | `[e.g. users / requests / records]` |
-| **Performance** | `[e.g. latency, load handling]` |
-| **Security** | `[e.g. auth, encryption]` |
-| **Impact** | `[measurable outcome]` |
-| **Repository** | `[Add repo link]` |
+| **Stack** | React (Vite), Express.js, FastAPI, Playwright, PostgreSQL, Redis, Neo4j |
+| **Scale** | 6-service microservices architecture |
+| **Performance** | Real-time Socket.IO dashboard across all services |
+| **Security** | WCAG 2.1 axe-core compliance, severity-weighted hygiene scoring |
+| **Impact** | Removes the need for hand-written QA scripts via autonomous multi-agent auditing |
+| **Repository** | GitHub *(link on resume)* |
 
-`[Add professional project explanation]`
+Built a multi-agent pipeline (CrawlerAgent + TesterAgent) using BFS-driven Playwright automation, backed by a 6-service microservices stack, to audit web applications end-to-end without manual test scripting.
 
 </details>
 
 <details>
-<summary><b>🔧 [Add Project Name]</b></summary>
+<summary><b>🩺 AI Diabetes Risk Predictor</b></summary>
 <br/>
 
-`[Add 1–2 line project description]`
+A full-stack ML application that predicts diabetes risk in real time from health parameters.
 
 | Category | Details |
 |---|---|
-| **Stack** | `[stack]` |
-| **Scale** | `[scale]` |
-| **Performance** | `[performance]` |
-| **Security** | `[security]` |
-| **Impact** | `[impact]` |
-| **Repository** | `[Add repo link]` |
+| **Stack** | React (TypeScript), Flask, Supabase, Scikit-learn |
+| **Scale** | Trained on 768 samples across 8 health parameters |
+| **Performance** | 73.9% accuracy (Random Forest + Logistic Regression), <3s real-time inference |
+| **Security** | Supabase-managed secure data handling |
+| **Impact** | Deployed, live full-stack ML product (Flask + Supabase + Vercel) |
+| **Repository** | Live demo *(link on resume)* |
 
-`[Add professional project explanation]`
+Combined a Random Forest + Logistic Regression ensemble with a responsive React + TypeScript frontend, delivering live prediction results through a production-deployed Flask/Supabase backend.
+
+</details>
+
+<details>
+<summary><b>♻️ Wastage Detection System</b></summary>
+<br/>
+
+A real-time computer vision system for automated waste classification from live camera feeds.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python, YOLOv8, OpenCV, Flask, React |
+| **Scale** | Continuous live-feed monitoring |
+| **Performance** | Real-time detection with bounding-box visualization |
+| **Security** | Flask REST API-gated media upload and detection triggers |
+| **Impact** | Instant detection alerts for continuous waste monitoring |
+| **Repository** | GitHub *(link on resume)* |
+
+Trained a custom YOLOv8 model integrated with an OpenCV pipeline for continuous monitoring, exposed through a Flask REST API and visualized on a React dashboard.
+
+</details>
+
+<details>
+<summary><b>🎯 AI Career Advisor</b></summary>
+<br/>
+
+An AI-powered career guidance platform combining conversational AI with adaptive skill assessment.
+
+| Category | Details |
+|---|---|
+| **Stack** | React, Flask, Firebase, Google Gemini 2.5, Grok API, NLP |
+| **Scale** | Adaptive quiz generation by language, company, and skill level |
+| **Performance** | Real-time conversational chat assistant |
+| **Security** | Firebase-managed auth and data |
+| **Impact** | Personalized skill-recommendations and placement prep at scale |
+| **Repository** | GitHub *(link on resume)* |
+
+Built an NLP chat assistant on Gemini 2.5, paired with a Grok API-powered skill-recommendation engine and an adaptive placement quiz generator, on a React + Flask + Firebase stack.
 
 </details>
 
@@ -148,16 +186,29 @@ Built with a deliberately beginner-friendly, dependency-light stack (no frontend
 
 ## 💼 Experience
 
-**`[Add Job Title]`** · `[Add Company Name]`
-📅 `[Add Date Range]`
+**AI/ML Intern** · CodeVocado
+📅 Oct 2025 – Jan 2026 · Remote · *Certificate of Completion + Letter of Recommendation Awarded*
 
-`[Add a 1–2 line professional description of the role]`
+Built an MSME-focused AI chatbot, taking it from LLM fine-tuning through to production-ready multilingual deployment.
 
-- `[Scope of work bullet point 1]`
-- `[Scope of work bullet point 2]`
-- `[Scope of work bullet point 3]`
+- Built an MSME AI chatbot using Ollama LLMs, LoRA-tuned Microsoft Phi-3, and RAG pipelines for domain-specific, hallucination-reduced responses
+- Developed multilingual support for 5 languages via automated translation pipelines; integrated JWT-based multi-role authentication for production-ready client access
+- Optimized backend inference for low-latency performance; maintained fine-tuning and RAG pipelines end-to-end
 
-`[Skill]` `[Skill]` `[Skill]` `[Skill]`
+`Ollama` `LoRA Fine-tuning` `RAG` `JWT Auth` `Python`
+
+<br/>
+
+**Club Coordinator — PR & Events Team** · Enigma Club, Anurag University
+📅 Aug 2025 – Present · Hyderabad, India
+
+Manage promotions, outreach, and event execution for a university tech club.
+
+- Managed event promotions, outreach, and social media for club initiatives
+- Coordinated technical workshops that drove increased campus participation
+- Grew overall club visibility across the university
+
+`Event Management` `Public Relations` `Community Building` `Social Media`
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -167,9 +218,11 @@ Built with a deliberately beginner-friendly, dependency-light stack (no frontend
 
 | Recognition | Details |
 |---|---|
-| Hackathon Participation | Multiple hackathons — rapid prototyping & collaborative development |
-| `[Add Achievement]` | `[Add details]` |
-| `[Add Achievement]` | `[Add details]` |
+| VISWAM AI – Summer of AI | 4-week AI internship (Meta · Swecha · IIIT Hyderabad), building tech for the Global South (Jun–Jul 2025) |
+| VisionNova 2.0 | National-Level 24-Hour Hackathon, Anurag University — Participation Certificate |
+| Avinya Hackathon | Built an AI-powered career advisor — intelligent skill-mapping & recommendation solution |
+| InnoQuest 2.0 | Virtual Pre-Mentor Program — recognized for innovation |
+| CodeVocado AI/ML Internship | Certificate of Completion + Letter of Recommendation (Oct 2025 – Jan 2026) |
 
 </div>
 
@@ -177,17 +230,14 @@ Built with a deliberately beginner-friendly, dependency-light stack (no frontend
 
 ## 📜 Certifications
 
-**AWS**
-`[Add certification badges]`
+**Simplilearn SkillUp**
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6D28D9?style=for-the-badge&logo=openai&logoColor=white) *(May 2025)*
 
-**Oracle**
-`[Add certification badges]`
+**CodeVocado**
+![AI/ML Internship](https://img.shields.io/badge/AI%2FML_Internship-4C1D95?style=for-the-badge&logo=robotframework&logoColor=white) *Certificate of Completion + Letter of Recommendation*
 
-**NPTEL**
-`[Add certification badges]`
-
-**Cisco**
-`[Add certification badges]`
+**Meta · Swecha · IIIT Hyderabad**
+![VISWAM AI](https://img.shields.io/badge/VISWAM_AI_Summer_of_AI-5B21B6?style=for-the-badge&logo=meta&logoColor=white) *4-week AI Internship*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
