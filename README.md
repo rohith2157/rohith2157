@@ -1,29 +1,294 @@
-# 💫 About Me:
-I am studying Artificial Intelligence and Machine Learning (AIML) at Anurag University, Hyderabad<br>
-Focused on AIML and Full Stack Development with hands-on experience in web and mobile application development<br>
-Currently building intelligent, scalable applications using React, Python, HTML, CSS, and JavaScript<br>
-Actively exploring Large Language Models (LLMs) and AI-driven system design<br>
-Experienced in rapid prototyping and collaborative development through multiple hackathons<br>
-Continuously strengthening foundations in Data Structures, Java, and advanced Python concepts<br>
-Open to collaboration on AI-powered systems, web platforms, and application development<br><br>
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ro_0hittt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohith-maheshwaram-b2777531a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/maheshwaramrohith2157/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Maheshwaram Rohith) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maheshwarmrohith2157@gmail.com) 
+<!-- Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rohith%20Maheshwaram&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohith2157&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rohith2157&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohith2157&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent%2C+scalable+applications;AI%2FML+%2B+Full+Stack+Engineer;Exploring+LLMs+%26+AI-driven+system+design;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Academic / Location Badges -->
+![Academic](https://img.shields.io/badge/B.Tech-AIML-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![University](https://img.shields.io/badge/Anurag_University-Hyderabad-4C1D95?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Hyderabad,_India-5B21B6?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br/>
+
+<!-- Contact Buttons -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-maheshwaram-b2777531a)
+[![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshwarmrohith2157@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohith2157)
+
+<br/>
+
+<!-- Stats badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=rohith2157&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/rohith2157?style=for-the-badge&color=6D28D9&labelColor=1a1a2e)
+![GitHub stars](https://img.shields.io/github/stars/rohith2157?style=for-the-badge&color=A78BFA&labelColor=1a1a2e)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🧠 About Me
+
+```yaml
+name: "Rohith Maheshwaram"
+role: "AI/ML Engineer · Full Stack Developer"
+university: "Anurag University, Hyderabad"
+focus:
+  - "Designing and shipping intelligent, scalable web & mobile applications"
+  - "Applying Large Language Models to real-world product problems"
+  - "Rapid prototyping under hackathon constraints, end-to-end ownership"
+  - "Strengthening core CS fundamentals — DSA, Java, advanced Python"
+engineering_mindset:
+  - "Ship pragmatic, maintainable systems over over-engineered ones"
+  - "Treat product thinking as part of the engineering job, not separate from it"
+  - "Comfortable across the stack: data layer, API layer, UI, and deployment"
+open_to:
+  - "Software Engineering / AI Engineering Internships"
+  - "Collaboration on AI-powered products and platforms"
+  - "Open-source contribution"
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🛠️ Tech Stack
+
+**Languages**
+![](https://skillicons.dev/icons?i=py,js,ts,c,java&theme=dark)
+
+**Frontend**
+![](https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,html,css,vite&theme=dark)
+
+**Backend & Databases**
+![](https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,nestjs,postgres,mysql,mongodb,sqlite,redis,prisma&theme=dark)
+
+**Cloud, DevOps & Tooling**
+![](https://skillicons.dev/icons?i=gcp,firebase,vercel,docker,kubernetes,git,github,githubactions,postman,figma&theme=dark)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Machine Learning Foundations | ●●●●○ | Supervised/unsupervised learning, model evaluation, scikit-learn, Pandas, NumPy |
+| Deep Learning | ●●●○○ | TensorFlow, Keras, PyTorch — model design and training pipelines |
+| LLM & GenAI Systems | ●●●●○ | Prompt engineering, LLM-driven content pipelines, AI-assisted application design |
+| Applied AI Product Design | ●●●●○ | Turning AI capabilities into usable, role-based product experiences |
+| Data Engineering Basics | ●●●○○ | Structuring data for ML pipelines, SQLite/Postgres-backed applications |
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>📚 Kids Comic Library — AI-Generated Children's Comic CMS</b></summary>
+<br/>
+
+A content management system for organizing, publishing, and curating AI-generated children's comic stories, built with a lightweight, production-friendly stack and clean role separation between administrators and parents.
+
+| Category | Details |
+|---|---|
+| **Stack** | Flask, SQLite, Bootstrap, Jinja2 |
+| **Scale** | Multi-role CMS (Admin + Parent) with structured content library |
+| **Performance** | Lightweight server-rendered architecture, fast page loads on modest hosting |
+| **Security** | Role-based access control, session-based authentication |
+| **Impact** | Enables non-technical parents/admins to manage AI-generated story content without touching code |
+| **Repository** | `[Add repo link]` |
+
+Built with a deliberately beginner-friendly, dependency-light stack (no frontend framework) to keep the codebase approachable, maintainable, and easy to demo — while still reflecting real CMS design patterns: role separation, structured schemas, and a clear content lifecycle from generation to publishing.
+
+</details>
+
+<details>
+<summary><b>🔧 [Add Project Name]</b></summary>
+<br/>
+
+`[Add 1–2 line project description]`
+
+| Category | Details |
+|---|---|
+| **Stack** | `[e.g. React, Node.js, MongoDB]` |
+| **Scale** | `[e.g. users / requests / records]` |
+| **Performance** | `[e.g. latency, load handling]` |
+| **Security** | `[e.g. auth, encryption]` |
+| **Impact** | `[measurable outcome]` |
+| **Repository** | `[Add repo link]` |
+
+`[Add professional project explanation]`
+
+</details>
+
+<details>
+<summary><b>🔧 [Add Project Name]</b></summary>
+<br/>
+
+`[Add 1–2 line project description]`
+
+| Category | Details |
+|---|---|
+| **Stack** | `[stack]` |
+| **Scale** | `[scale]` |
+| **Performance** | `[performance]` |
+| **Security** | `[security]` |
+| **Impact** | `[impact]` |
+| **Repository** | `[Add repo link]` |
+
+`[Add professional project explanation]`
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 💼 Experience
+
+**`[Add Job Title]`** · `[Add Company Name]`
+📅 `[Add Date Range]`
+
+`[Add a 1–2 line professional description of the role]`
+
+- `[Scope of work bullet point 1]`
+- `[Scope of work bullet point 2]`
+- `[Scope of work bullet point 3]`
+
+`[Skill]` `[Skill]` `[Skill]` `[Skill]`
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| Hackathon Participation | Multiple hackathons — rapid prototyping & collaborative development |
+| `[Add Achievement]` | `[Add details]` |
+| `[Add Achievement]` | `[Add details]` |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📜 Certifications
+
+**AWS**
+`[Add certification badges]`
+
+**Oracle**
+`[Add certification badges]`
+
+**NPTEL**
+`[Add certification badges]`
+
+**Cisco**
+`[Add certification badges]`
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](#)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
+[![CodeChef](https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](#)
+
+`[Add your handles — replace # links above]`
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rohith2157&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9" width="49%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=rohith2157&theme=radical&hide_border=true&background=0d1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith2157&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rohith2157&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rohith2157&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=rohith2157&icon=6&color=6)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=rohith2157&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=rohith2157&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/rohith2157/rohith2157/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced LLM system design & orchestration
+  - Data Structures & Algorithms (deep dive)
+  - Java & advanced Python internals
+
+building:
+  - AI-powered content platforms
+  - Full stack applications with clean, role-based architecture
+
+exploring:
+  - Large Language Models (LLMs)
+  - AI-driven system design patterns
+
+open_to:
+  - Software Engineering / AI Internships
+  - Collaborative AI & web platform projects
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🤝 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshwarmrohith2157@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-maheshwaram-b2777531a)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohith2157)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](#)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+*"Good engineering is invisible — it just works, and it scales."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
