@@ -220,9 +220,6 @@ Built an MSME-focused AI chatbot, taking it from LLM fine-tuning through to prod
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 ## 🎯 Current Focus
 
 ```yaml
