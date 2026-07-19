@@ -2,7 +2,7 @@
 
 <!-- Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rohith%20Maheshwaram&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
+  
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+intelligent%2C+scalable+applications;AI%2FML+Engineer+%2B+Full+Stack+Developer;Exploring+LLMs+%26+AI-driven+system+design;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
